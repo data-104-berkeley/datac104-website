@@ -20,7 +20,7 @@ url: 'http://data104.org'
 staff_email: 'datac104@berkeley.edu'
 course_department: dsus
 logo: assets/images/logo.png
-semester: "Spring 2025"
+semester: "Fall 2026"
 
 exclude:
   - .sass-cache/
@@ -38,9 +38,9 @@ exclude:
 
 # Heading settings
 lecture:
-  time: "2:00 - 3:00"
+  time: "Mo, We, Fr 3:00 - 3:59 pm"
   location:
-      name: "Dwinelle 155"
+      name: "Wheeler 150"
       link: ""
 # heading_links:
 #   - text:
