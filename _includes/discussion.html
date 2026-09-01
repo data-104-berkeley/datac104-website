@@ -3,11 +3,13 @@
   By default, entries are unnumbered unless "numbered: true" is passed in YAML.
 {%- endcomment -%}
 <td class="{{ include.is_even }}" rowspan="{{ include.rowspan }}">
-  {%- if include.element.numbered and include.element.title -%}
-    {{ include.number }}. {{ include.element.title | markdownify }}
-  {%- elsif include.element.title -%}
-    {{ include.element.title | markdownify }}
-  {%- else -%}
-    {{ include.element | markdownify }}
-  {%- endif -%}
+  <div style="list-style-position: inside; padding-left: 0.5em; word-break: break-word;">
+    {%- if include.element.numbered and include.element.title -%}
+      {{ include.number }}. {{ include.element.title | markdownify }}
+    {%- elsif include.element.title -%}
+      {{ include.element.title | markdownify }}
+    {%- else -%}
+      {{ include.element | markdownify }}
+    {%- endif -%}
+  </div>
 </td>
