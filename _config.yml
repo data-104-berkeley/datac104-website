@@ -135,6 +135,8 @@ discussions_under_construction: false
 # Set this to true to archive the semester
 outdated: false
 
+timezone: UTC
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

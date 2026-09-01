@@ -6,8 +6,8 @@
 # Due to time zone issues, these might not show up exactly on the calendar,
 # so some fiddling is necessary. If you're struggling with time zone issues,
 # try setting your system time to GMT when building the website.
-start_date: 2025-01-22
-end_date: 2025-05-03
+start_date: 2026-08-26
+end_date: 2026-12-15
 
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here.
@@ -15,6 +15,7 @@ end_date: 2025-05-03
 # so some fiddling is necessary. If you're struggling with time zone issues,
 # try setting your system time to GMT when building the website.
 extra_days:
+  - date: 2026-12-15
 
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
@@ -71,7 +72,7 @@ default_week_rowspan: '3'
 #######################################################
 
 # Edit the widths of columns here.
-unit_width: "13%"
+unit_width: "0%"
 week_width: "8%"
 date_width: "7%"
 lecture_width: "20%"
