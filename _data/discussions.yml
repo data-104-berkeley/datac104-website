@@ -53,7 +53,7 @@ discussions:
         * Rebecca Lemov, "'Big Data is People!'", *Aeon*
         * Sarah Igo, “Me and My Data,”*Historical Studies in the Natural Sciences* 
   - title: |
-      * Ian Hacking, “Making Up People”, *London Review of Books*
+      * Ian Hacking, [“Making Up People”,](https://www.lrb.co.uk/the-paper/v28/n16/ian-hacking/making-up-people) *London Review of Books*
   - title: "No reading"
   - title: |
       * Thomas Kuhn, “The Route to Normal Science” (selection) and “Resolution of Revolutions”, *The Structure of Scientific Revolutions* 
@@ -65,26 +65,26 @@ discussions:
   - title: |
       * James C. Scott, “Nature and Space”, *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*
   - title: |
-      * Aubrey Clayton, “How Eugenics Shaped Statistics”, *Nautilus*
+      * Aubrey Clayton, [“How Eugenics Shaped Statistics”](https://nautil.us/how-eugenics-shaped-statistics-238014), *Nautilus*
   - title: |
       * Andrew Brooks, “Why Are Certain Countries Poor? Dismantling Comparative Models of Development”, *Bullshit Comparisons*
   - title: |
-      * Nathan Malkin, “Contextual Integrity, Explained: A More Usable Privacy Definition”, *IEEE Security & Privacy*
+      * Nathan Malkin, [“Contextual Integrity, Explained: A More Usable Privacy Definition”](https://www.computer.org/csdl/magazine/sp/2023/01/09990902/1J9z9wIXRao), *IEEE Security & Privacy*
       * Optional Reading:
         * Daniel J. Solove, *Understanding Privacy*, ch. 1, “Privacy: A concept in disarray.”
   - title: |
       * *Lowry Pressly, "Introduction", *The Right to Oblivion: Privacy and the Good Life* 
       * Optional Reading:
-        * "In Post Roe v. Wade Era, Mozilla Labels 18 of 25 Period and Pregnancy Tracking Tech with *Privacy Not Included Warning", Mozilla Blog, August 17, 2022.
-        * Jen Caltrider et al, "It's Official: Cars Are the Worst Product Category We Have Ever Reviewed For Privacy", Mozilla Foundation, 6 September 2023.
+        * []"In Post Roe v. Wade Era, Mozilla Labels 18 of 25 Period and Pregnancy Tracking Tech with *Privacy Not Included Warning",](https://www.mozillafoundation.org/en/blog/in-post-roe-v-wade-era-mozilla-labels-18-of-25-popular-period-and-pregnancy-tracking-tech-with-privacy-not-included-warning/) Mozilla Blog, August 17, 2022.
+        * Jen Caltrider et al, ["It's Official: Cars Are the Worst Product Category We Have Ever Reviewed For Privacy"](https://www.mozillafoundation.org/en/nothing-personal/privacy-not-included-sunset/), Mozilla Foundation, 6 September 2023.
   - title: No readings
   - title: |
       * Michel Foucault, “Panopticism,” *Discipline and Punish*
-      * Elizabeth Daniel Vasquez "The N.Y.P.D. Is Teaching America How to Track Everyone Every Day Forever", *The New York Times*
-      * "Search Party from Ring: Be a Hero in Your Neighborhood" ad from Super Bowl 2026
+      * Elizabeth Daniel Vasquez ["The N.Y.P.D. Is Teaching America How to Track Everyone Every Day Forever",](https://www.nytimes.com/interactive/2025/09/15/opinion/nypd-surveillance.html) *The New York Times*
+      * ["Search Party from Ring: Be a Hero in Your Neighborhood"](https://www.youtube.com/watch?v=OheUzrXsKrY) ad from Super Bowl 2026
       * Optional Reading: 
-        * "NSA Whistleblower Edward Snowden: 'I don’t want to live in a society that does these sorts of things'", *The Guardian*
-        * Gaby Del Valle, "The Most Surveilled Place in America", *The Verge*
+        * ["NSA Whistleblower Edward Snowden: 'I don’t want to live in a society that does these sorts of things'",](https://www.theguardian.com/world/video/2013/jun/09/nsa-whistleblower-edward-snowden-interview-video) *The Guardian*
+        * Gaby Del Valle, ["The Most Surveilled Place in America",](https://www.theverge.com/c/23203881/border-patrol-wall-surveillance-tech) *The Verge*
   - title: |
       * Theodore Porter, “Objectivity and Authority: How French Engineers Reduced Public Utility to Numbers” *Poetics Today*
   - title: |
@@ -95,8 +95,8 @@ discussions:
       * Virginia Eubanks, Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor (St. Martin’s Press, 2017), Chapter 4, “The Allegheny Algorithm,” 
       * Optional Reading:
         * Os Keyes, et al. "A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry" CHI 2019
-        * J. Angwin, J. Larson, S. Mattu, and L. Kirchner, "Machine Bias: There's software used across the country to predict future criminals. And it's biased against Blacks", *ProPublica*
-        * A. Feller, E. Pierson, S. Corbett-Davies, and S. Goel, "A computer program used for bail and sentencing decisions was labeled biased against Blacks. It's actually not that clear", *Monkey Cage, The Washington Post*
+        * J. Angwin, J. Larson, S. Mattu, and L. Kirchner, ["Machine Bias: There's software used across the country to predict future criminals. And it's biased against Blacks",](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) *ProPublica*
+        * A. Feller, E. Pierson, S. Corbett-Davies, and S. Goel, ["A computer program used for bail and sentencing decisions was labeled biased against Blacks. It's actually not that clear",](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.c39ef4a6a5ec) *Monkey Cage, The Washington Post*
         * Anna Lauren Hoffmann, “Where Fairness Fails: Data, Algorithms, and the Limits of Anti-Discrimination Discourse”, *Information, Communication, and Society*
   - title: |
       * Marion Fourcade and Kieran Healy, Chapter 3: “Classification Situations” *The Ordinal Society*
@@ -112,7 +112,7 @@ discussions:
         * Raffi Khatchadourian, "The Doomsday Invention," *The New Yorker*
   - title: |
       * Ursula K. Le Guin, "The Carrier Bag Theory of Fiction (1986), *Dancing at the Edge of the World: Thoughts on Words, Women, Places* 
-      * Marc Andreesen, "The Tech Optimist Manifesto"
+      * Marc Andreesen, ["The Tech Optimist Manifesto"](https://a16z.com/the-techno-optimist-manifesto/)
   - title: |
       * David Noble, “Social Choice in Machine Design: The Case of Automatically Controlled Machine Tools”, *The Social Shaping of Technology*
       * Optional Readings:
@@ -120,32 +120,33 @@ discussions:
         * Harry Braverman, "Machinery," *Labor and Monopoly Capitalism*
   - title: |
       * Tom Nicholas, “Silicon Valley and the Emergence of Investment Styles,” *VC: An American History*
-      * L. Vinsel and A. Russel, "Hail the maintainers", *Aeon*
+      * [Eisenhower Speech](https://www.youtube.com/watch?v=Gg-jvHynP9Y)
+      * L. Vinsel and A. Russel, ["Hail the maintainers"](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more), *Aeon*
   - title: |
-      * Tianyu M. Fang, "Silicon Valley Goes to War", *Noema*
+      * Tianyu M. Fang, ["Silicon Valley Goes to War",](https://www.noemamag.com/silicon-valley-goes-to-war/) *Noema*
       * Optional Reading:
-        * Leif Wenar, "The Deaths of Effective Altruism", *Wired*
+        * Leif Wenar, ["The Deaths of Effective Altruism",](https://www.wired.com/story/deaths-of-effective-altruism/) *Wired*
         * Fred Turner, "Machine Politics: The rise of the internet and a new age of authoritarianism", *Harper's*
-        * Malcolm Harris, "The Silicon Valley Loop: How the dot-com crash created Palo Alto’s clueless investor class." *New York Magazine*
+        * Malcolm Harris, ["The Silicon Valley Loop: How the dot-com crash created Palo Alto’s clueless investor class."](https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html) *New York Magazine*
   - title: |
       * Kate Crawford, "Labor,"  *Atlas of AI*
       * Mona Sloane, "The Business of AI," *Predicted: How AI Is Restructuring Social Life*
       * Optional Reading:
-        * L. Hyman, "It's Not Technology That's Disrupting Our Jobs", *The New York Times*
+        * L. Hyman, ["It's Not Technology That's Disrupting Our Jobs",](https://www.nytimes.com/2018/08/18/opinion/technology/technology-gig-economy.html) *The New York Times*
         * Veena Dubal, *Dissent*, Fall 2020. "Digital Piecework"
   - title: |
-      * A. Wiener, "Uncanny Valley", *n+1*
+      * A. Wiener, ["Uncanny Valley",](https://www.nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/) *n+1*
       * Optional reading:
-        * Sam Kriss, "Child's Play," *Harper's*
+        * Sam Kriss, ["Child's Play,"](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) *Harper's*
   - title: |
-      * Theo Baker, "The Stanford Freshmen Who Want to Rule the World," *The Atlantic* 
+      * Theo Baker, ["The Stanford Freshmen Who Want to Rule the World,"](https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/?gift=-xJZ723x9QSH66_fbC_yoIiHASWFOHhNgwbNL1V_RzI&utm_source=copy-link&utm_medium=social&utm_campaign=share) *The Atlantic* 
   - title: "No new reading"
   - title: |
-      * Jasmine Sun, "no data centers in my backyard" *Substack*
+      * Jasmine Sun, ["no data centers in my backyard"](https://jasmi.news/p/no-data-centers-in-my-backyard) *Substack*
       * Optional Reading:
-        * Kate Crawford and Vladan Joler, "Anatomy of an AI System."
+        * Kate Crawford and Vladan Joler, ["Anatomy of an AI System."](https://anatomyof.ai/)
   - title: |
-      * Amia Srinivasan, "Stop the Robot Apocalypse", *London Review of Books*
+      * Amia Srinivasan, ["Stop the Robot Apocalypse",](https://www.lrb.co.uk/the-paper/v37/n18/amia-srinivasan/stop-the-robot-apocalypse) *London Review of Books*
       * [MIT Moral Machine](https://www.moralmachine.net/) (go to "start judging" and "browse scenarios")
       * Optional Reading:
         * C. Fleddermann. *Engineering Ethics (4th Edition)*, "Chapter 3: Understanding Ethical Problems" [selection]
@@ -156,24 +157,24 @@ discussions:
         * Paul Bloom, "How Moral Can AI Really Be?" *The New Yorker*
         * Roel Dobbe et al., "Hard Choices in Artificial Intelligence", *Artificial Intelligence*
   - title: |
-      * Luke Munn, "The Uselessness of AI Ethics", *AI Ethics*
+      * Luke Munn, ["The Uselessness of AI Ethics",](https://link.springer.com/article/10.1007/s43681-022-00209-w) *AI Ethics*
       * Langdon Winner, "Brandy, Cigars, and Human Values," in *The Whale and the Reactor: A Search for Limits in an Age of High Technology*, 2nd ed.
       * Optional Readings:
         * Margo Boenig-Liptsin, Anissa Tanweer, and Ari Edmundson. "Data Science Ethos Lifecycle: Interplay of Ethical Thinking and Data Science Practice," *Journal of Statistics and Data Science Education*
-        * John Naughton, "Will Computer Science Have an Ethical Reckoning?"
+        * John Naughton, ["Will Computer Science Have an Ethical Reckoning?"](https://memex.naughtons.org/will-computer-science-have-an-ethical-reckoning/25456/)
         * [American Statistical Association (ASA)](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice) and [Association for Computing Machinery (ACM)](https://www.acm.org/code-of-ethics) codes of ethics
   - title: No new reading
   - title: |
       * J. Radin, "'Digital Natives': How Medical and Indigenous Histories Matter for Big Data", *Osiris*
       * Optional Reading:
-        * "The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research" Sections "Ethical Principles and Guidelines for Research Involving Human Subjects," and "Part B: Basic Ethical Principles." 
+        * ["The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research"](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html#xbasic) Sections "Ethical Principles and Guidelines for Research Involving Human Subjects," and "Part B: Basic Ethical Principles." 
         * UC Berkeley Committee for Protection of Human Subjects, ["About CPHS/OPHS"](https://cphs.berkeley.edu/about.html) and ["Guide to the IRB Review Process."](https://cphs.berkeley.edu/reviewguide.html)
         * M. Zook et al. (2017) "Ten simple rules for responsible big data research" *PLoS Comput. Biol.*
   - title: |
-      * Denisse Alejandra,"Reimagining Open Science Through a Feminist Lens," *Medium*
+      * Denisse Alejandra,["Reimagining Open Science Through a Feminist Lens,"](https://medium.com/@denalbz/reimagining-open-science-through-a-feminist-lens-546f3d10fa65) *Medium*
       * Optional Reading:
-        * Sabina Leonelli, "Philosophy of Open Science", *Cambridge Elements in the Philosophy of Science*
-        * Amia Srinivasan, "Stop the Robot Apocalypse", *London Review of Books*
+        * Sabina Leonelli, ["Philosophy of Open Science",](https://www.cambridge.org/core/elements/philosophy-of-open-science/0D049ECF635F3B676C03C6868873E406) *Cambridge Elements in the Philosophy of Science*
+        * Amia Srinivasan, ["Stop the Robot Apocalypse",](https://www.lrb.co.uk/the-paper/v37/n18/amia-srinivasan/stop-the-robot-apocalypse) *London Review of Books*
         * Claude Constitution
   - title: |
       * Gwen Ottinger, “Data Hopes,” *The Science of Repair* 
