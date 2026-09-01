@@ -344,4 +344,14 @@ h2.text-delta + ul a, #markdown-toc a {
   padding-bottom: 0;
 }
 
+/* Keep list markers inside the table cell during horizontal scroll */
+table td ul, table td ol {
+  padding-left: 1.25rem;
+  margin-left: 0;
+  list-style-position: inside;
+}
 
+table td li {
+  text-indent: -1.25rem;
+  padding-left: 1.25rem;
+}
